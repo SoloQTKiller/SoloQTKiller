@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Bem--vindos-ao-meu-perfil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Bem-vindos+ao+meu+perfil.)](https://git.io/typing-svg)
 
 <h1 align="center">Oi 👋, sou o SoloQTKiller</h1>
 <h3 align="center">Faço programação como hobby porque gosto de aprender coisas novas, faculdade em andamento na área de computação.</h3>
