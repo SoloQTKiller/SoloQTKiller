@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Bem-vindos+ao+meu+perfil.)](https://git.io/typing-svg)
+              [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Bem-vindos+ao+meu+perfil.)](https://git.io/typing-svg)
 
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Bem-vindos+ao+meu+perfil.)](https://git.io/typing-svg)</h1>
+<h1 align="center">Oi 👋, sou o SoloQTKiller</h1>
 <h3 align="center">Faço programação como hobby porque gosto de aprender coisas novas, faculdade em andamento na área de computação.</h3>
 
 <p align="left"> <a href="https://twitter.com/soloqtkiller" target="blank"><img src="https://img.shields.io/twitter/follow/soloqtkiller?logo=twitter&style=for-the-badge" alt="soloqtkiller" /></a> </p>
