@@ -9,13 +9,13 @@
 
 <br>
 
-- 🌱 Atualmente estou aprendendo **NodeJs, HTML and CSS.**
+- 🌱 Atualmente estou aprendendo **Arduino, NodeJs, HTML e CSS.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/SoloQTKiller](https://github.com/SoloQTKiller)
 
 - 📝 Escrevo regularmente artigos sobre **Programação, automação e robótica.**
 
-- ⚡ Fato curioso **Quando estou focado em algo quero fazer da melhor forma possível.**
+- ⚡ Fato curioso: **Quando estou focado em algo quero fazer da melhor forma possível.**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
