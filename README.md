@@ -4,7 +4,6 @@
 <h3>Programo por hobbie porque gosto de aprender coisas novas, faculdade em andamento na área de computação.</h3>
 <br>
 <p align="left"> 
-  <a href="https://youtube.com/soloqtkiller" target="blank"><img src="https://img.shields.io/twitter/follow/SoloQTKiller?style=flat-square" alt="soloqtkiller" /></a> 
 <a href="https://youtube.com/soloqtkiller" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC0xfoKvD_r-knNBMAIo-x_A?style=flat-square" alt="soloqtkiller" /></a>
 </p>
 
