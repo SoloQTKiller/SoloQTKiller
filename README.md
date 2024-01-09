@@ -33,9 +33,5 @@
     <br>
   <a href="https://discord.com/users/477567345439801345" target="_blank">
     <img width="40%" src="https://lanyard.cnrad.dev/api/477567345439801345?bg=141321&borderRadius=2px" alt="Discord Status"/>
+       <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SoloQTKiller&theme=radical&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
     </a>
-<div align="center">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SoloQTKiller&show_icons=true&theme=radical&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
-        <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SoloQTKiller&theme=radical&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
-      <br>
-</div>
